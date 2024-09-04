@@ -367,7 +367,7 @@ async def check_verbs(update: Update, context: CallbackContext) -> None:
 
 def main() -> None:
     # Вставьте сюда ваш токен
-    TOKEN = '7328681702:AAH26vsJfXxjijBBFni1wAiVJ4hAOE0x8pQ'
+    TOKEN = '????'
 
     application = Application.builder().token(TOKEN).build()
 
